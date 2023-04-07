@@ -1,0 +1,168 @@
+
+body{
+    overflow-x: hidden;
+}
+
+.table{
+    padding: 5vw;
+    margin-right: -5vw;
+}
+
+#cart{
+    margin: 0.5vw;
+}
+
+
+.table table tbody tr td img{
+    margin-top: 10px;
+    width: 50px;
+    height: 100px;
+}
+
+
+.table table tbody tr td input{
+
+width: 40px;
+    height: 44px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+
+
+.table table thead tr td{
+    font-weight: 600;
+    font-size: larger;
+}
+
+
+#cart table thead{
+    background-color: rgb(224, 247, 247);
+    border: 2px solid black;
+}
+
+
+
+/* #cart table thead tr td{
+    border: 2px solid #34832a;
+    border-left: none;
+    border-right: none;
+} */
+
+
+
+.billing{
+    display: flex;
+    margin: 25px;
+    margin-top: -10px;
+}
+
+
+.coupon{
+    margin-left: 5vw;
+
+    width: 50vw;
+}
+
+
+
+.coupon1{
+    display: flex;
+}
+.coupon h2{
+    font-size: 2vw;
+    margin-left: -8px;
+}
+.coupon input{
+    height: 7vh;
+    width: 30vw;
+    text-align: center;
+    text-overflow: ellipsis;
+    text-shadow:  salmon;
+}
+
+
+
+.bn{
+ 
+    border-radius: 5px;
+    background-color: rgb(82, 135, 82);
+    cursor: pointer;
+    height: 7vh; 
+    width: 10vw;
+    /* padding-bottom: 3vh; */
+    margin-left: 1vw;
+    /* text-align: center; */
+    border: 2px solid green;
+    
+}
+
+
+.bn p{
+    color: azure;
+    text-align: center;
+   font-weight: 600;
+}
+
+
+.total{
+    background-color: rgb(252, 250, 252);
+    
+   
+    padding: 2vh 5vw;
+    /* border: 1px solid green; */
+}
+
+.table{
+    margin-top: -5vw;
+    margin-left: -5vw;
+   
+}
+
+.tr1{
+  border: 1px solid green;
+  height: 8vh;
+  width: 38vw;
+    display: flex;
+}
+.tr2{
+    border: 1px solid green;
+    height: 8vh;
+    width: 38vw;
+      display: flex;
+}
+.tr3{
+    border: 1px solid green;
+    height: 8vh;
+    width: 38vw;
+      display: flex;
+}
+
+
+.total h4{
+    margin-bottom: 3vh;
+    font-size: 2vw;
+}
+
+
+
+
+
+.td1{
+    border: 1px solid green;
+    width: 19vw;
+}
+
+.td1 p{
+    text-align: left;
+}
+
+.td2{
+    border: 1px solid green;
+    width: 19vw;
+    font-weight: 700;
+}
+
+.td2 p{
+    text-align: left;
+}

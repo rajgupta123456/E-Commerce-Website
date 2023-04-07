@@ -1,0 +1,188 @@
+body {
+    background-color: rgb(236, 240, 243);
+}
+
+.full {
+    display: flex;
+    height: 250vh;
+    margin-top: -3.8vh;
+    /* width: 98.7vw; */
+    background-color: rgb(236, 240, 243);
+}
+
+.leftcont {
+
+    /* width: 60vw; */
+    height: 120vh;
+    margin-left: -10vw;
+    /* align-items: center;
+    justify-content: center; */
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+
+.mainimage1 {
+    width: 75vw;
+    height: 98vh;
+
+    padding: 10vw;
+
+
+}
+
+
+.mainimage1 img {
+    width: 70vh;
+    height: 90vh;
+    margin-left: 8vw;
+    margin-top: -13vh;
+    border: 1px solid purple;
+    /* justify-content: center;
+align-items: center; */
+}
+
+
+
+
+
+.image1 a img {
+    height: 30vh;
+    width: 16vh;
+    border: 1px solid purple;
+    margin-right: 1vw;
+    margin-top: 1vw;
+    margin-left: -3vw;
+}
+
+.image2 a img {
+    height: 30vh;
+    width: 16vh;
+    margin-right: 1vw;
+    border: 1px solid purple;
+    margin-top: 1vw;
+}
+
+.image3 a img {
+    height: 30vh;
+    width: 16vh;
+    margin-top: 1vw;
+    margin-right: 1vw;
+    border: 1px solid purple;
+}
+
+.image4 a img {
+    height: 30vh;
+    width: 16vh;
+    border: 1px solid purple;
+    margin-top: 1vw;
+    margin-right: 1vw;
+}
+
+
+.smallimage {
+    display: flex;
+
+
+
+
+    width: 70vw;
+    margin-left: 21vw;
+}
+
+
+
+
+
+.para {
+    margin-top: 7vh;
+    height: 300vh;
+    overflow-y: hidden;
+    
+}
+
+
+.para p {
+    text-align: justify;
+    margin-left: -10px;
+    font-weight: 600;
+    margin-top: -20px;
+}
+
+.rightcon {
+    border: 2 px solid black;
+
+    height: 230vh; 
+    
+
+    margin-left: -30vw;
+/* margin-left: -200px; */
+    margin-top: 5vh;
+
+    padding: 2vw;
+
+}
+
+
+.list1 li{
+    list-style-type: circle;
+}
+
+.para h4{
+   font-size: 12.5px;
+    font-weight: 850;
+    color: rgb(12, 146, 52);
+    margin-bottom: 25px;
+}
+
+
+.para h5{
+    color: rgb(24, 97, 46);
+    font-size: 19px;
+    margin-bottom: 25px;
+}
+
+.para h1{
+    font-size: 30px;
+    margin-left: -9px;
+    margin-top: -20px;
+}
+
+
+#select1{
+    height: 23px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.cartoption{
+    margin: 20px 0;
+    display: flex;
+}
+
+.cartoption input{
+    width: 40px;
+    height: 44px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.cartoption input{
+    border-radius: 5px;
+    text-align: center;
+}
+
+.btn1{
+border-radius: 5px;
+    background-color: rgb(82, 135, 82);
+    cursor: pointer;
+    height: 42px;
+}
+
+
+.btn1 p{
+    color: azure;
+     text-align: center;
+     margin-bottom: -20px;
+
+}

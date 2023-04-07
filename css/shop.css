@@ -1,0 +1,64 @@
+#shiv1 h4{
+    text-align: center;
+
+    height: 15vh;
+    font-size: 1.5vw;
+    color: azure;
+}
+#shiv1 h1{
+    text-align: center;
+    /* margin-top: 8vh; */
+    font-size: 3vw;
+    color: azure;
+
+}
+
+
+#shiv1 .div h4{
+    /* margin-top: 5vh; */
+    padding-top: 90vh;
+}
+
+
+
+#shiv1{
+    /* background-color: rgb(22, 26, 90); */
+    background: linear-gradient(rgb(26, 26, 59),rgb(106, 81, 134));
+    height: 33vh;
+    padding-top: 8vh;
+}
+
+
+#pagination{
+    text-align: center; 
+    display: flex;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    margin-left: 43vw;
+}
+
+.section-p1{
+    margin: 0.2vw;
+}
+
+#pagination a{
+    text-decoration: none;
+    background-color: #088178;
+    padding: 15px 20px;
+    border-radius: 4px;
+    color: #fff;
+    font-weight: 600;
+}
+
+
+#pagination a i{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+
+
+#section-p1{
+    margin-top: 5vh;
+    margin-bottom: 10vh;
+}
